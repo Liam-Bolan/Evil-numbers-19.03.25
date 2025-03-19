@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evil numbers 19.03.25", "Evil numbers 19.03.25\Evil numbers 19.03.25.csproj", "{2F45F51D-9939-4C71-A27A-6F8B3F69345D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F45F51D-9939-4C71-A27A-6F8B3F69345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F45F51D-9939-4C71-A27A-6F8B3F69345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F45F51D-9939-4C71-A27A-6F8B3F69345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F45F51D-9939-4C71-A27A-6F8B3F69345D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15E9FDB-CC57-46B8-AEBC-92F10AD60457}
+	EndGlobalSection
+EndGlobal
